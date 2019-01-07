@@ -1,0 +1,18 @@
+MATLAB CODE TO RUN ANALYSIS:
+
+[========== FZ ==========]
+1. Load data (Collected Data -> Raw Trials Data -> FZ -> Everything Else -> FZ_all_trials_data_all_valid.csv)
+2. Run: FZ_Complete_Basic_Analysis.m
+
+[Special Recorded Session Analysis]
+Run:
+RECORDED_count_timeouts_per_participant_per_condition.m
+RECORDED_find_time_limit_per_participant_per_condition.m
+
+[Special Training Session Analysis]
+TRAINING_count_timeouts_per_participant_all_levels
+TRAINING_total_fails_u_test
+TRAINING_total_successes_u_test
+TRAINING_show_learning_curve
+
+[]

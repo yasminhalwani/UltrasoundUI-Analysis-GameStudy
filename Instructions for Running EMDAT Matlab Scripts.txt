@@ -1,0 +1,6 @@
+1. Load manual data
+2. Run "load_manual.m"
+3. Load gaze data
+4. Run "load_gaze.m"
+5. Run "compute_correlations.m"
+6. Run "compute_correlations_and_u_test.m"
